@@ -1,0 +1,2 @@
+batch_id,meter,reading_count,average_consumption_kWh,total_consumption_kWh,peak_consumption_kWh,average_voltage_V,average_current_A,average_frequency_Hz
+8,BR39,250,7.4E-4,0.185,0.003,240.59,0.083,45.779

@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.ipynb_checkpoints/
+.sparkStaging/
+metastore_db/
+spark-warehouse/
+/data/CEEW - Smart meter data Bareilly 2020.csv
